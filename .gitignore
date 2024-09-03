@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+
+# Optional: You can also exclude other files or directories here
+# Example:
+# .env
+# .DS_Store
